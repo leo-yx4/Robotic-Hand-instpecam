@@ -3,8 +3,8 @@
 #include <WiFi.h>
 
 // ==================== CONFIG WIFI ====================
-const char* ssid = "LEONARD6788";
-const char* password = "12345678";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // ==================== CONFIG TCP =====================
 WiFiServer server(80);
