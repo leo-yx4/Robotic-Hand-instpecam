@@ -5,7 +5,7 @@ from math import acos, degrees
 import socket
 import time
 
-ESP32_IP = '192.168.137.61'
+ESP32_IP = 'ESP32IP'
 PORT = 80
 THRESH_EXTENDED = 60.0  # umbral para considerar dedo extendido
 
